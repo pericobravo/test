@@ -1,9 +1,16 @@
 Este texto solo se ve en master 2
+Este texto solo se ve en master 2
 
-* Aqui voy a agregar algo chido
+* Aqui voy a agregar algo chido solo en master
+* Aqui voy a agregar algo chido solo en master
 
+master master
 master master
 
 Y solo tiene que verse en master 2
+Y solo tiene que verse en master 2
+Y solo tiene que verse en master 2
 
+
+y nada mas que en master 2
 y nada mas que en master 2
