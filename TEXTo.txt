@@ -2,8 +2,6 @@ Este texto solo se ve en master 2
 
 * Aqui voy a agregar algo chido
 
-master master
-
+desarollo desarrollo
 Y solo tiene que verse en master 2
-
 y nada mas que en master 2
